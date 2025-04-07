@@ -62,7 +62,6 @@ chatbot-egain/
 ├── style.css        # Chatbot styling
 ├── script.js        # Web chatbot logic
 ├── chatbot.py       # Python-based command-line chatbot
-├── slides.pdf       # 3-4 slide presentation deck
 └── README.md        # Project overview and instructions
 ```
 
@@ -80,8 +79,3 @@ chatbot-egain/
 ## 👩‍💻 Author
 Built by **Khushi Chandra**  
 [Portfolio](https://ikhushi.com) • [LinkedIn](https://www.linkedin.com/in/khushi-chandra)
-
----
-
-## 📄 License
-This project is open-source and free to use under the **MIT License**.
