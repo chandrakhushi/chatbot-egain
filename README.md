@@ -4,9 +4,9 @@ An interactive, user-friendly chatbot built using Python and HTML/CSS/JavaScript
 
 ---
 
-## ⚙️ Setup & Installation
+## Setup & Installation
 
-### 🔹 Command-Line Version (Python)
+### Command-Line Version (Python)
 1. Clone or download the repository:
 ```bash
 git clone https://github.com/chandrakhushi/chatbot-egain.git
@@ -22,16 +22,22 @@ cd chatbot-egain
 python3 chatbot.py
 ```
 
-### 🔹 Web Version (No installation needed)
+![Command Line Chatbot](./cli-screenshot.png)
+
+---
+
+### Web Version (No installation needed)
 1. Open the `index.html` file in your browser:
    - Double-click the file, or
    - Right-click and choose "Open with" > your preferred browser
 
 This project runs entirely in the browser — no dependencies or backend needed!
 
+![Web UI - Start](./web-start.png)
+
 ---
 
-## 💡 Project Approach
+## Project Approach
 This chatbot uses a step-by-step rule-based flow to assist users in locating their packages using tracking numbers or alternative identifiers (like email or order number).
 
 ### Flow Breakdown:
@@ -43,15 +49,21 @@ This chatbot uses a step-by-step rule-based flow to assist users in locating the
    - Talk to a human agent
    - View detailed delivery timeline
 
-### Features:
+![Web UI - Status](./web-status.png)
+
+---
+
+## Features
 - CLI version with typing animation and realistic status replies
 - Web UI version with:
-  - Dark/Light mode toggle 🌙☀️
-  - Typing indicator ⌛
-  - Restart button 🔄
+  - Dark/Light mode toggle 
+  - Typing indicator
+  - Restart button
   - Responsive and modern UI/UX
 - Input validation for tracking numbers and email addresses
 - Handles edge cases (missing/invalid info, unknown commands)
+
+![Dark Mode Chat](./dark-mode.png)
 
 ---
 
@@ -62,12 +74,17 @@ chatbot-egain/
 ├── style.css        # Chatbot styling
 ├── script.js        # Web chatbot logic
 ├── chatbot.py       # Python-based command-line chatbot
-└── README.md        # Project overview and instructions
+├── slides.pdf       # 3-4 slide presentation deck
+├── README.md        # Project overview and instructions
+├── cli-screenshot.png
+├── web-start.png
+├── web-status.png
+└── dark-mode.png
 ```
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 - Integrate real tracking APIs (UPS/FedEx)
 - NLP-based input understanding
 - Voice input support for accessibility
@@ -76,6 +93,6 @@ chatbot-egain/
 
 ---
 
-## 👩‍💻 Author
+## Author
 Built by **Khushi Chandra**  
 [Portfolio](https://ikhushi.com) • [LinkedIn](https://www.linkedin.com/in/khushi-chandra)
