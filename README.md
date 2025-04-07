@@ -22,7 +22,7 @@ cd chatbot-egain
 python3 chatbot.py
 ```
 
-![Command Line Chatbot](./cli-screenshot.png)
+<img src="./cli-screenshot.png" alt="Command Line Chatbot" width="500"/>
 
 ---
 
@@ -33,7 +33,7 @@ python3 chatbot.py
 
 This project runs entirely in the browser — no dependencies or backend needed!
 
-![Web UI - Start](./web-start.png)
+<img src="./web-start.png" alt="Web UI - Start" width="500"/>
 
 ---
 
@@ -49,7 +49,7 @@ This chatbot uses a step-by-step rule-based flow to assist users in locating the
    - Talk to a human agent
    - View detailed delivery timeline
 
-![Web UI - Status](./web-status.png)
+<img src="./web-status.png" alt="Web UI - Status" width="500"/>
 
 ---
 
@@ -63,7 +63,7 @@ This chatbot uses a step-by-step rule-based flow to assist users in locating the
 - Input validation for tracking numbers and email addresses
 - Handles edge cases (missing/invalid info, unknown commands)
 
-![Dark Mode Chat](./dark-mode.png)
+<img src="./dark-mode.png" alt="Dark Mode Chat" width="500"/>
 
 ---
 
